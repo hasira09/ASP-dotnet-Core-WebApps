@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP-dotnet-Core-WebApps.props" />
+</Project>
