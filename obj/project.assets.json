@@ -2296,11 +2296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "D:\\C# Programs\\ASP-dotnet-Core-WebApps\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "E:\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "D:\\C# Programs\\ASP-dotnet-Core-WebApps\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\MyWebApp\\obj\\",
+      "outputPath": "D:\\C# Programs\\ASP-dotnet-Core-WebApps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
